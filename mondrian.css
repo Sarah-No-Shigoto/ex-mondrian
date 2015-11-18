@@ -1,10 +1,4 @@
-<!doctype html>
-<html lang="fr">
-	<head>
-		<meta charset='utf-8'>
-		<title>Une reproduction Mondrian</title>
-		<style type="text/css">
-			body {
+body {
 	margin: 0;
 }
 
@@ -94,21 +88,3 @@
 .fourth-white, .yellow {
 	height: 50%;
 }
-		</style>
-	</head>
-	<body>
-		<div class='all'>
-			<div class='top'>
-				<div class='first-white'></div>
-				<div class='second-white'></div>
-				<div class='red'></div>
-			</div>
-			<div class='bottom'>
-				<div class='blue'></div>
-				<div class='third-white'></div>
-				<div class='fourth-white'></div>
-				<div class='yellow'></div>
-			</div>
-		</div>
-	</body>
-</html>
